@@ -36,7 +36,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/your-username/notes-app-vanilla.git
+  git clone https://github.com/subbareeddy/notes-app.git
 ```
 
 Open the project directory in a new window and run the html file
