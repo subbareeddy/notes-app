@@ -27,7 +27,7 @@ Archive Page
 
 ## Live Link
 
-http://127.0.0.1:5500/notes-app-vanillasjs/index.html
+https://notes156.netlify.app/
 
 
 ## Run Locally
