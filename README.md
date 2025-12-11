@@ -25,9 +25,7 @@ Archive Page
 -   [Twitter](https://x.com/subbareddyk088)
 
 
-## Live Link
 
-https://notes156.netlify.app/
 
 
 ## Run Locally
